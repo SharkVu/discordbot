@@ -3,11 +3,6 @@
   "settings": {
     "shop": ""
   },
-  "users": {
-    "444204158631936000": {
-      "messages": 0,
-      "missionProgress": 0,
-      "lastMission": 0
-    }
+  "users": {}
   }
 }
