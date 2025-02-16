@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "discord.js": "^14.18.0"
+  },
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}

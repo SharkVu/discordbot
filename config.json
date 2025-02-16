@@ -1,0 +1,13 @@
+{
+  "token": "your_token",
+  "prefix": "!",
+  "ownerID": "Your_UID",
+  "economy": {
+    "startingBalance": 0,
+    "minDaily": 0,
+    "maxDaily": 0,
+    "minMine": 0.0,
+    "maxMine": 0.0,
+    "tradeCooldown": 0
+  }
+}

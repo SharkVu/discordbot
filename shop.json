@@ -1,0 +1,6 @@
+[
+    { "name": "🌹 Hoa hồng", "icon": "🌹", "price": 2000, "affinity": 1 },
+    { "name": "💍 Nhẫn bạc", "icon": "💍", "price": 20000, "affinity": 2 },
+    { "name": "👑 Nhẫn vàng", "icon": "👑", "price": 50000, "affinity": 5 },
+    { "name": "🎟️ Ticket", "icon": "🎟️", "price": 1000000000000000, "affinity": 50 }
+]
