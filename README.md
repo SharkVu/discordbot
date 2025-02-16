@@ -47,3 +47,22 @@
 !thongtin @user – Xem thông tin người chơi
 
 🚀 Chơi vui & làm giàu ngay!
+
+
+Để code hoạt động bạn cần phải cài đặt modune
+
+`Bước 1: Khởi tạo dự án Node.js
+
+Mở terminal hoặc command prompt và tạo một thư mục mới cho bot của bạn:
+
+mkdir discord-bot
+
+cd discord-bot
+
+Khởi tạo một dự án Node.js mới:
+
+npm init -y
+
+Cài modun discord
+
+npm i discord.js`
